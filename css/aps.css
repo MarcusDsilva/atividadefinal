@@ -1,0 +1,101 @@
+*
+{
+    font-family: Arial;
+}
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/709841849661259776/732849607029030962/rabbids-glow-in-the-dark-halloween-wallpaper.jpg)
+}
+
+
+
+.texto1{ 
+    padding: 50px 5px;
+    text-align: center;  
+    color: white;
+}
+
+.texto2 {
+    text-align: center;
+    color: white;  
+}
+
+ 
+header img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+
+}
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+.foto1{
+    display: none   
+}
+.fotos2{
+    display: none;
+}
+img {
+    vertical-align: middle;
+}
+.prev, .next {
+    cursor: pointer;
+    position: -webkit-sticky;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+    background-color: #f1f1f1;
+    color: black;
+}
+main
+{
+    
+    background-size: cover;
+}
+
+.cadastro form
+{
+    color: white;
+	text-align: center;
+}
+ h1{
+    text-align: center;
+    color: white;
+}
+.cadastro
+{
+	margin-bottom: 15px;
+}
+
+
+footer p
+{
+    color: white;
+    line-height: 0.2;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
